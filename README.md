@@ -8,7 +8,7 @@ Me chamo Alexandre Miranda.
 - 👨‍💻 As principais ferramentas e liguagens que utilizo são:  
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) &nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring-Boot-007396?style=for-the-badge&logo=springboot&logoColor=white) &nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-007396?style=for-the-badge&logo=springboot&logoColor=white) &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
